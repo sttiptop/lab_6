@@ -1,0 +1,7 @@
+C:\Users\Женя\documents\visual studio 2015\Projects\lab_6\lab_6\bin\Debug\lab_6.exe
+C:\Users\Женя\documents\visual studio 2015\Projects\lab_6\lab_6\bin\Debug\lab_6.pdb
+C:\Users\Женя\documents\visual studio 2015\Projects\lab_6\lab_6\obj\Debug\lab_6.Client.resources
+C:\Users\Женя\documents\visual studio 2015\Projects\lab_6\lab_6\obj\Debug\lab_6.Properties.Resources.resources
+C:\Users\Женя\documents\visual studio 2015\Projects\lab_6\lab_6\obj\Debug\lab_6.csproj.GenerateResource.Cache
+C:\Users\Женя\documents\visual studio 2015\Projects\lab_6\lab_6\obj\Debug\lab_6.exe
+C:\Users\Женя\documents\visual studio 2015\Projects\lab_6\lab_6\obj\Debug\lab_6.pdb
